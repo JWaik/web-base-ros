@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import Container from 'react-bootstrap/Container';
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom"; 
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom"; 
 /* Version 6 use like this, No Switch, in Route use element instead of component */
 import Home from "./Home";
 import About from "./About";
